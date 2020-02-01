@@ -1,2 +1,4 @@
 # DuoQ
-The dating app for gamers and people who are interest in video games.
+A sample landing page of a tinder clone.
+
+Created with Bootstrap4, HTML5, and CSS3.
